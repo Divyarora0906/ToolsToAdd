@@ -1,6 +1,7 @@
 [
 {
  "Id":"1",
+"upvote"o,
  "name":"Elevelabs",
  "short":"ElevenLabs is a leading voice AI platform offering ultra-realistic text‑to‑speech, voice cloning, dubbing, and conversational voice agents. With support for 70+ languages, emotion-aware delivery, and low-latency performance, it enables developers to integrate natural audio into apps, audiobooks, games, and accessibility tools via a robust public API.",
  "Category":"Audio",
