@@ -1,0 +1,70 @@
+{
+  "trending_tools": [
+    {
+      "name": "ChatGPT",
+      "category": "AI Chatbot",
+      "description": "Conversational AI assistant by OpenAI known for answering questions, writing content, and coding help.",
+      "logo_url": "https://i.imgur.com/YourImageLink1.png"
+    },
+    {
+      "name": "Gemini",
+      "category": "AI Chatbot",
+      "description": "Google's AI chatbot, formerly Bard, designed for smart search and generative tasks.",
+      "logo_url": "https://i.imgur.com/YourImageLink2.png"
+    },
+    {
+      "name": "Napkin AI",
+      "category": "Idea Management",
+      "description": "AI-powered note and idea organizer for capturing and connecting thoughts visually.",
+      "logo_url": "https://i.imgur.com/YourImageLink3.png"
+    },
+    {
+      "name": "Blackbox AI",
+      "category": "Code Assistant",
+      "description": "AI code assistant that helps developers write and understand code with autocomplete and suggestions.",
+      "logo_url": "https://i.imgur.com/YourImageLink4.png"
+    },
+    {
+      "name": "Microsoft Copilot",
+      "category": "Productivity AI",
+      "description": "AI assistant integrated into Microsoft 365 apps to boost productivity using generative AI.",
+      "logo_url": "https://i.imgur.com/YourImageLink5.png"
+    },
+    {
+      "name": "Grok AI",
+      "category": "Conversational AI",
+      "description": "Humorous and opinionated AI chatbot developed by xAI and integrated with X (Twitter).",
+      "logo_url": "https://i.imgur.com/YourImageLink6.png"
+    },
+    {
+      "name": "Claude",
+      "category": "AI Chatbot",
+      "description": "AI assistant by Anthropic focused on safety and high-quality responses for general tasks.",
+      "logo_url": "https://i.imgur.com/YourImageLink7.png"
+    },
+    {
+      "name": "Perplexity",
+      "category": "AI Search Engine",
+      "description": "AI-powered search engine providing cited, conversational answers to complex queries.",
+      "logo_url": "https://i.imgur.com/YourImageLink8.png"
+    },
+    {
+      "name": "Notion AI",
+      "category": "Productivity",
+      "description": "Integrated AI tool in Notion for writing, summarizing, and organizing content intelligently.",
+      "logo_url": "https://i.imgur.com/YourImageLink9.png"
+    },
+    {
+      "name": "Midjourney",
+      "category": "AI Image Generator",
+      "description": "AI tool for generating artistic and hyper-realistic images from text prompts.",
+      "logo_url": "https://i.imgur.com/YourImageLink10.png"
+    },
+    {
+      "name": "Eleven Labs",
+      "category": "AI Voice",
+      "description": "Advanced voice synthesis tool to create realistic and emotional AI voices.",
+      "logo_url": "https://i.imgur.com/YourImageLink11.png"
+    }
+  ]
+}
